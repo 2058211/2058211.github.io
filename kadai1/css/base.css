@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+table
+{
+    /* 周りの線を表示するプロパティ (線の太さ、線のタイプ、線の色) */
+    border: 1px solid #000000;
+}
+
+td
+{
+    border: 1px solid #000000;
+}
+
+th
+{
+    border: 1px solid #000000;
+}
+
+#maru
+{
+    background-color: aqua;
+}
+
+#batu
+{
+    background-color: rgb(230, 68, 68);
+}
+
+dt
+{
+    font-weight: bolder;
+}
+
+a
+{
+    font-weight: bolder;
+}
+
+h1
+{
+    color: rgb(189, 221, 124);
+    text-align: center;
+    background-image: url(../img/kyudozyo.jpeg);
+    background-size: 50%;
+}
